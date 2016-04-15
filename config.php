@@ -1,9 +1,9 @@
 <?php
 include_once "mysql/shared/ez_sql_core.php";
 include_once "mysql/ez_sql_mysql.php";
-define("db_user", "garsi");
-define("db_password", "1q2w3e4r5t");
-define("db_name", "garsi");
+define("db_user", "");
+define("db_password", "");
+define("db_name", "");
 // define("db_host", "202.121.66.54:3307");
 define("db_host", "114.215.94.21:3306");
 //define("server","http://114.215.94.21:70/garsi-php/upload/");
